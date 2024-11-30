@@ -1,0 +1,1 @@
+# covid_mini_project
